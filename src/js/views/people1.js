@@ -29,7 +29,7 @@ const People1 =() => {
 
          </div>
          <Link to="/">
-			<button className="btn bnt-warning">Back to Home</button>
+         <button type="button" class="btn btn-dark">Back Home</button>
 		</Link>
         
         </>

@@ -2,11 +2,11 @@
     General Styles
 */
 .h1 {
-    border-color: #073723;
+    border-color: #57d721;
     border-radius: 10px;
   }
   .text-center {
-    background-color: black;
+    background-color: #0a0a0a;
   }
   
   .card-container {
@@ -17,7 +17,7 @@
   }
   
   .card {
-    border: 10px solid #073723;
+    border: 10px solid #06150f;
     border-radius: 25px;
     padding: 10px;
     width: 400px; 
